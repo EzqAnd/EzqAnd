@@ -1,16 +1,14 @@
-## Hi there 👋
+### Bem Vindo ao meu perfil:
 
-<!--
-**EzqAnd/EzqAnd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Ezequiel Andrade 
+- Estou estudando na ALURA
+- Estou me desenvolvendo na linguagem de programação JavaScript
+- ultilizo esse espaço para a minha organização e campartilhamento de meus projetos desenvolvidos
 
-Here are some ideas to get you started:
+### você entrar em contato comigo:
+00001201518532SP@al.educacao.sp.gov.br
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+@EzequielAndrade
+
+
+![](https://media1.tenor.com/m/VdixkA4ki9IAAAAd/aizen.gif)
