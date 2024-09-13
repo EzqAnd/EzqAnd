@@ -8,6 +8,8 @@ Meu nome é **Ezequiel Andrade**
 ### Você entrar em contato comigo:
 00001201518532SP@al.educacao.sp.gov.br
 
+[Curriculo .eu.docx](https://github.com/user-attachments/files/17000046/Curriculo.eu.docx)
+
 @EzequielAndrade
 
 
